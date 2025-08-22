@@ -26,7 +26,7 @@
 - help to come out of nano editor `ctrl+o`,`enter` and `ctrl+x`
 - allow your system to run your script as a program, make it executable `chmod +x [file]`
 - runnig a script `./[file]` or `bash [file]`
-
+- clones only the single branch in repo `git clone --branch <branch_name> --single-branch <repo_url>`
 
 ## Shebang 
 
